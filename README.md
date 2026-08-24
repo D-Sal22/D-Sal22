@@ -5,7 +5,7 @@
 *Payments • Fraud & Risk • Operational Analysis • Data-Informed Decision-Making*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salena-d-77576443)
-[![Resume][![Resume](https://img.shields.io/badge/Resume-View_Resume-34495E?style=for-the-badge&logo=adobeacrobatreader)](./assets/Sal_Technical_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View_Resume-34495E?style=for-the-badge&logo=adobeacrobatreader)](./assets/Sal_Technical_Resume.pdf)
 
 ---
 
