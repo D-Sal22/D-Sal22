@@ -5,7 +5,7 @@
 *Payments • Fraud & Risk • Operational Analysis • Data-Informed Decision-Making*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salena-d-77576443)
-[![Resume](https://img.shields.io/badge/Resume-View_Resume-34495E?style=for-the-badge&logo=adobeacrobatreader)](INSERT-PORTFOLIO-RESUME-LINK)
+[![Resume](https://img.shields.io/badge/Resume-View_Resume-34495E?style=for-the-badge&logo=adobeacrobatreader)](./assets/Sal_TKH_Technical_Resume.pdf)
 
 ---
 
@@ -40,7 +40,7 @@ I am also passionate about technology advocacy, particularly expanding access to
 - **Data storytelling:** Developing analyses and visualizations that turn complex information into clear business findings
 - **Operational perspective:** Understanding how technology, processes, controls, and consumer needs intersect within financial services
 - **Technology advocacy:** Interest in making technology education and emerging technical concepts more accessible, relevant, and useful to students and communities
-- **Collaborative relationship-building:** Experienced in building strong working relationships across teams, supporting team development, and partnering with technology vendors and communities to resolve issues, coordinate changes, and achieve shared operational goals.
+- **Collaborative relationship-building:** Experienced in building strong working relationships across teams, supporting team development, and partnering with technology vendors and communities to resolve issues, coordinate changes, and achieve shared operational goals
 
 ---
 
@@ -65,7 +65,7 @@ Developed an analytical workflow for examining financial-transaction data and id
 
 **Key areas:** Data cleaning • Exploratory analysis • Fraud patterns • Predictive modeling
 
-[View Project]((https://github.com/D-Sal22/Financial-Fraud-Dataset-1.git))
+[View Project](https://github.com/D-Sal22/Financial-Fraud-Dataset-1.git)
 
 ---
 
@@ -77,7 +77,7 @@ The analysis compares normalized price movements and regional differences to exp
 
 **Key areas:** Python • Pandas • APIs • Data merging • Seaborn • Plotly
 
-[View Project]((https://github.com/AmanTheOMA/TEPP_4_2026.git))
+[View Project](https://github.com/AmanTheOMA/TEPP_4_2026.git)
 
 ---
 
@@ -87,7 +87,18 @@ Investigated relationships among weather conditions, weekly patterns, and New Yo
 
 **Key areas:** Data preparation • Trend analysis • Visualization • Business insights
 
-[View Project]((https://github.com/D-Sal22/citibike-ridership-weather-model.git))
+[View Project](https://github.com/D-Sal22/citibike-ridership-weather-model.git)
+
+---
+### 📱 Facebook Engagement Prediction
+
+Collaborated on a machine-learning project examining which post characteristics and exposure metrics are associated with Facebook engagement.
+
+Developed the baseline Random Forest Regressor and K-Means clustering analysis, contributed to preprocessing decisions, correlation analysis, feature reduction, Tableau dashboard design, and project documentation.
+
+**Key areas:** Python • pandas • scikit-learn • Random Forest • K-Means clustering • Tableau • Collaborative analysis
+
+[View Project](https://github.com/oluochl/Business-Facebook-Metrics)
 
 ---
 
@@ -129,7 +140,7 @@ My areas of interest include:
 - Business analysis
 - Data-informed decision-making
 - Technology advocacy and education
-- Community Building
+- Community building
 
 ---
 
